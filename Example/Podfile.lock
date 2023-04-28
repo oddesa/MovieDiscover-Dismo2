@@ -1,0 +1,27 @@
+PODS:
+  - MovieDiscover (0.1.0)
+  - Nimble (10.0.0)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - MovieDiscover (from `../`)
+  - Nimble (~> 10.0.0)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  MovieDiscover:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MovieDiscover: e23eff7c2656bf77a749ed7cca225653c8a23f65
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: 137f0cc453372ee9141c2b859f3a6bef87ddb97f
+
+COCOAPODS: 1.11.3
